@@ -16,11 +16,11 @@ The solution I wanted to go forward with was a combination of the solutions I di
 
 ## Whether you think the technology would be a good fit for that based on the thing you hacked 
 
-To run the program you need a Windows 10 PC, to download Rocket League on steam/epic games store, download Bakkesmod from bakkesmod.com, and must be running python 3.7 or later. Then pip install rlgym. 
-
 I think the technology would be ideal for what I want to do. The program allows for various customizations that make it easy to create my own custom verison of a Rocket League reforcement learning ai. The program appeared to work or at the very least affect the state of the game.
 
 ## What the thing you hacked is supposed to do 
+
+To run the program you need a Windows 10 PC, to download Rocket League on steam/epic games store, download Bakkesmod from bakkesmod.com, and must be running python 3.7 or later. Then pip install rlgym.
 
 If you launch Bakkesmod and then run the program “rlgym_program.py” on the command, it should start up Rocket League and enter a match on it’s own. From there, the player should play on their and slowly learn to hit the ball and put the ball in the opponents net. From what I can see, it looks like it is slowly starting to learn to touch the ball after a few iterations and I am getting some information back each iteration in the console. If I set it to a higher speed, it looks like it is hitting it in the net but I cannot tell. It is hard to see due to the speed. Regardless, it appears to be affecting the state of the game and trying to learn over multiple episodes.
 
