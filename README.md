@@ -1,9 +1,9 @@
-# Hack Technology / Project Attempted
+# Exploration of the Python API RLGym
 
 
 ## What technology you wanted to explore
 
-I wanted to explore the python API RLGym which tries to make it easier to treat the Rocket League environment as a Machine Learning . It is an api that connects with the game and attempts to control the speed of the physics engine in-game as well as 
+I wanted to explore the python API RLGym which is an api that makes it easier to interact with the Rocket League game environment and code an ai using reinforcement learning. It is an api that connects with the game and attempts to control the speed of the physics engine in-game to make reinforcement learning faster and creating an ai a bit more of a phesible task. 
 
 ## What you thought you might need the technology for
 
@@ -14,6 +14,7 @@ The solution I wanted to go forward with was a combination of the solutions I di
 * If it works:
   - tell me how to test it
   - hand in multiple attempts if you have them (clarify which is which)
+  - My only concern would be the speed of the games. Currently, 
 
 
 ## What the thing you hacked is supposed to do
