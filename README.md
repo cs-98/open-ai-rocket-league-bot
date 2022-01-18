@@ -24,7 +24,7 @@ To run the program you need a Windows 10 PC, to download Rocket League on steam/
 
 If you launch Bakkesmod and then run the program “rlgym_program.py” on the command, it should start up Rocket League and enter a match on it’s own. From there, the player should play on their and slowly learn to hit the ball and put the ball in the opponents net. From what I can see, it looks like it is slowly starting to learn to touch the ball after a few iterations and I am getting some information back each iteration in the console. If I set it to a higher speed, it looks like it is hitting it in the net but I cannot tell. It is hard to see due to the speed. Regardless, it appears to be affecting the state of the game and trying to learn over multiple episodes.
 
-[Screenshot of Commmand Line and Program when ran](Screenshot (2).png) 
+[Screenshot of Commmand Line and Program when ran](program_screenshot.png) 
 
 
 ## Author 
